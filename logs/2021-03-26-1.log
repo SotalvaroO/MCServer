@@ -1,0 +1,51 @@
+[19:24:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:24:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:24:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:20] [main/INFO]: Reloading ResourceManager: Default
+[19:24:21] [Worker-Main-14/INFO]: Loaded 7 recipes
+[19:24:21] [Worker-Main-14/INFO]: Loaded 927 advancements
+[19:24:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:24:24] [Server thread/INFO]: Loading properties
+[19:24:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:24:24] [Server thread/INFO]: Generating keypair
+[19:24:24] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at zg$1.run(SourceFile:95) [server.jar:?]
+[19:24:24] [Server thread/INFO]: Starting Minecraft server on 26.180.147.39:25565
+[19:24:24] [Server thread/INFO]: Using default channel type
+[19:24:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:24:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:24:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:24:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:24:25] [Server thread/INFO]: Preparing level "world"
+[19:24:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:29] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[19:24:29] [Server thread/INFO]: Time elapsed: 4130 ms
+[19:24:29] [Server thread/INFO]: Done (4.336s)! For help, type "help"
+[19:27:52] [Server thread/INFO]: FormolDog[/26.180.147.39:52767] logged in with entity id 85 at (-848.3946985162197, 11.0, -69.30000001192093)
+[19:27:52] [Server thread/INFO]: FormolDog joined the game
+[19:42:11] [Server thread/INFO]: FormolDog has made the advancement [Cover Me With Diamonds]
+[19:43:26] [Server thread/INFO]: FormolDog has made the advancement [Hot Stuff]
+[19:51:09] [Server thread/INFO]: FormolDog has made the advancement [Best Friends Forever]
+[19:54:54] [Server thread/INFO]: [FormolDog: Set own game mode to Spectator Mode]
+[19:57:29] [Server thread/INFO]: [FormolDog: Set own game mode to Survival Mode]
